@@ -1,0 +1,14 @@
+C:\Users\Morake\source\repos\SurveyTest\obj\Debug\SurveyTest.Form1.resources
+C:\Users\Morake\source\repos\SurveyTest\obj\Debug\SurveyTest.Properties.Resources.resources
+C:\Users\Morake\source\repos\SurveyTest\obj\Debug\SurveyTest.Results.resources
+C:\Users\Morake\source\repos\SurveyTest\obj\Debug\SurveyTest.Survey.resources
+C:\Users\Morake\source\repos\SurveyTest\obj\Debug\SurveyTest.csproj.GenerateResource.cache
+C:\Users\Morake\source\repos\SurveyTest\obj\Debug\SurveyTest.csproj.CoreCompileInputs.cache
+C:\Users\Morake\source\repos\SurveyTest\bin\Debug\SurveyDatabase1.mdf
+C:\Users\Morake\source\repos\SurveyTest\bin\Debug\SurveyDatabase1_log.ldf
+C:\Users\Morake\source\repos\SurveyTest\bin\Debug\SurveyTest.exe.config
+C:\Users\Morake\source\repos\SurveyTest\bin\Debug\SurveyTest.exe
+C:\Users\Morake\source\repos\SurveyTest\bin\Debug\SurveyTest.pdb
+C:\Users\Morake\source\repos\SurveyTest\obj\Debug\SurveyTest.exe
+C:\Users\Morake\source\repos\SurveyTest\obj\Debug\SurveyTest.pdb
+C:\Users\Morake\source\repos\SurveyTest\obj\Debug\SurveyTest.csproj.AssemblyReference.cache
